@@ -14,6 +14,17 @@ open command prompt and run the command line mentioned below :
 
 A webpage will be opened and this bot is ready to answer all the queries that you have.
 
+## Demo Screenshots:
+Basic overview of webpage:
+![Project Logo](images/logo.png)
+
+After entering your Image and query:
+![Project Logo](images/logo.png)
+
+The Response that was given:
+![Project Logo](images/logo.png)
+
+
 
 ## Creator
 Manjunadh Kotla 
