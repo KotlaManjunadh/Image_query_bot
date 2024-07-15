@@ -16,13 +16,13 @@ A webpage will be opened and this bot is ready to answer all the queries that yo
 
 ## Demo Screenshots:
 Basic overview of webpage:
-![Project Logo](images/logo.png)
+![Project overview]((https://github.com/KotlaManjunadh/Image_query_bot/blob/screenshots/Screenshot%20(25).png?raw=true))
 
 After entering your Image and query:
-![Project Logo](images/logo.png)
+![Project overview](https://github.com/KotlaManjunadh/Image_query_bot/blob/screenshots/Screenshot%20(26).png?raw=true)
 
 The Response that was given:
-![Project Logo](images/logo.png)
+![Project output]((https://github.com/KotlaManjunadh/Image_query_bot/blob/screenshots/Screenshot%20(27).png?raw=true))
 
 
 
